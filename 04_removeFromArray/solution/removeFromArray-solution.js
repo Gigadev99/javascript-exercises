@@ -15,7 +15,7 @@ const removeFromArray = function (array, ...args) {
   });
   // and return that array
   return newArray;
-};
+};  
 
 // A simpler, but more advanced way to do it is to use the 'filter' function,
 // which basically does what we did with the forEach above.
